@@ -7,8 +7,7 @@
     -The total code generated should be shown in the data table and there should be an option to download as Excel and PDF as well. Data must be arranged as per Indian Legal format when printing.
 
 ### Output
-    https://github.com/ssriram-pl/rexx-demo
-    
-    -Phpoffice & Dompdf libraries are used to generate the pdf & excel.
+https://github.com/ssriram-pl/rexx-demo
+Phpoffice & Dompdf libraries are used to generate the pdf & excel.
     
 # mysql db available in the mysql folder
