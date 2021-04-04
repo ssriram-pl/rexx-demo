@@ -1,0 +1,27 @@
+html, body {
+    background-color: #fff;
+    color: #636b6f;
+    font-family: 'Nunito', sans-serif;
+    font-weight: 200;
+    height: 100vh;
+    margin: 0;
+}
+
+.title {
+    font-size: 45px;
+}
+
+.card-header-text {
+    text-align: center;
+    background: #3a3a3c;
+    font-weight: bold;
+    font-size: large;
+    color: #e9ecef;
+}
+
+.dashboard-show-count {
+    text-align: center;
+    font-weight:bold;
+    font-family: emoji;
+    font-size: xxx-large;
+}
